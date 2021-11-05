@@ -15,7 +15,7 @@ terraform {
     organization = "thailandtime"
 
     workspaces {
-    name = "demo-github-acitons"
+      name = "demo-github-acitons"
     }
   }
 }
